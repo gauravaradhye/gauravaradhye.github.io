@@ -11,20 +11,20 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://adibpat.github.io/
-baseurl: /adibpat.github.io/
-title: Aditya Patwardhan
-author: Aditya Patwardhan
+url: http://gauravaradhye.github.io/
+baseurl: /gauravaradhye.github.io/
+title: Gaurav Aradhye
+author: Gaurav Aradhye
 description: Personal blog and Resume
 avatar: profile.JPG
-email: abpatwar@ncsu.edu
-github: adibpat # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+email: garadhy@ncsu.edu
+github: gauravaradhye # username
+#twitter: username
+linkedin: gauravaradhye
+#stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
-google_analytics: UA-69391421-1
+#disqus: username
+#google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
